@@ -18,10 +18,13 @@ my java lib, test
 	if  there is cert issue, try run first:   git config --global http.sslVerify false
 	
 =============================== command =====================================
-git add (rm) filenames
+git add (rm) filenames   or git add . 
+
+git commit -m "MY MESSAGE HERE" 
+
+or combine add and commit:  
+git commit -a -m "MY MESSAGE HERE"
 
 git status 
-
-git commit -m "msg" 
 
 git push/pull   might need enter github uid/password   and need commit message
