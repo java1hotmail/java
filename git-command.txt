@@ -1,5 +1,10 @@
 java my java lib
 
+remote: https://github.com/java1hotmail/java.git
+ local: C:\Users\jk\Documents\GitHub\
+
+
+
 =================== create repository ========================= 
 
 (1) create new repo: https://github.com/new (after login)
